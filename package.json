@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kmdurga67/nodejs-practice/issues"
   },
-  "homepage": "https://github.com/kmdurga67/nodejs-practice#readme"
+  "homepage": "https://github.com/kmdurga67/nodejs-practice#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
 }
